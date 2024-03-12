@@ -13,4 +13,6 @@ int b = int.Parse(Console.ReadLine());
 Calculator c = new Calculator();
 c.Add(a,b);
 
+Console.WriteLine("One line added for demo purpose");
+
 Console.ReadLine(); 
